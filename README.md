@@ -95,3 +95,18 @@ async function ___get_request_data() {
 ___get_request_data()
 ```
 
+
+#### 如果需要对本仓库代码进行改动的话，请按照以下步骤实现 thanks
+```
+fork from my reps to your reps
+
+git clone https://github.com/juwenzhang/Front_async_await.git
+
+git add <need-commit-files>  ||  git add .
+
+git commit -m "commitlint: desc"
+
+git push -u <your-remote-name> <your-local-branch-name>
+
+commit pull request merge to me
+```
