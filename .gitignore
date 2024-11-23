@@ -1,0 +1,6 @@
+.idea
+.vscode
+.git
+*.exe
+*.out
+*.node_moudle
